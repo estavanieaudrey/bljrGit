@@ -1,1 +1,1 @@
-print("oke baik")
+print("oke baik sekalii")
